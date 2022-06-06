@@ -10,4 +10,4 @@ DEBUG = True
 
 
 # TODO IMPLEMENT DATABASE URL
-SQLALCHEMY_DATABASE_URI = 'postgresql://noopsmithon@localhost:5432/musicapp'
+SQLALCHEMY_DATABASE_URI = 'postgresql://postgres@localhost:5432/musicapp'
